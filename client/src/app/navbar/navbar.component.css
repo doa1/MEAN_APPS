@@ -1,0 +1,21 @@
+nav.navbar.navbar-inverse.navbar-fixed-top {
+    background-color: cadetblue;
+}
+
+a.navbar-brand {
+    color: aquamarine,
+}
+
+ul.links {
+    float: right;
+}
+
+ul li {
+    display: inline;
+    padding: 5px;
+    color: antiquewhite;
+}
+
+ul li a {
+    color: antiquewhite;
+}
